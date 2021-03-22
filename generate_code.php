@@ -1,7 +1,7 @@
 
 <?php 
 
-
+//generate
 if(isset($_POST) && !empty($_POST)) {
     include('phpqrcode/qrlib.php'); 
     $codesDir = "codes/";   
