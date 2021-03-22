@@ -11,7 +11,7 @@
         <script src="js/bootstrap.min.js"></script>
 		<script src="js/jquery-3.0.0.min.js"></script>
 
-        <title>Código QR con PHP</title>
+        <title>Código QR con PHP por jader golindano</title>
     
         <script src="js/ajax_generate_code.js"></script>
     </head>
